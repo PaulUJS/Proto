@@ -1,0 +1,6 @@
+# dune init proj proto
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/zetroix/.cache/dune/db
+# Workspace root: /home/zetroix/dev/ocaml/proto
+# Auto-detected concurrency: 16
